@@ -508,7 +508,7 @@ body {
     .row .product .coupon {
         z-index: 2;
         font-family: 'Poppins', sans-serif;
-        font-size: 0.3rem;
+        font-size: 0.35rem;
         font-weight: 700;
         color: var(--color6);
         background-color: var(--color8);
@@ -682,7 +682,7 @@ body {
     .row .product .coupon {
         z-index: 2;
         font-family: 'Poppins', sans-serif;
-        font-size: 0.3rem;
+        font-size: 0.4rem;
         font-weight: 700;
         color: var(--color6);
         background-color: var(--color8);
@@ -856,7 +856,7 @@ body {
     .row .product .coupon {
         z-index: 2;
         font-family: 'Poppins', sans-serif;
-        font-size: 0.5rem;
+        font-size: 0.6rem;
         font-weight: 700;
         color: var(--color6);
         background-color: var(--color8);
